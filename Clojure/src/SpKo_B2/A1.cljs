@@ -1,4 +1,5 @@
 (ns SpKo-B2.A1)
+(def lst '(1 2 3 -4 -5 6 -7 8 9))
 (defn pos [x] (> x 0))
 ((defn posF
   "get all numbers larger than 0"
