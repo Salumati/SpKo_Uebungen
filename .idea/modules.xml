@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Clojure/Clojure.iml" filepath="$PROJECT_DIR$/Clojure/Clojure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clojure/DemoJava.iml" filepath="$PROJECT_DIR$/Clojure/DemoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clojure/Java.iml" filepath="$PROJECT_DIR$/Clojure/Java.iml" />
     </modules>
   </component>
 </project>
